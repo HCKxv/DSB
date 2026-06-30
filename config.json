@@ -1,6 +1,6 @@
 {
-    "LINK": "https://space.bilibili.com/397260674",
-    "HURL": "https://hckxv.github.io/DSB/",
-    "Parser": "https://hckxv.github.io/dysonBlueprintParser/",
+    "BaseUrl": "/DSB/",
+    "PreviewUrl": "https://hckxv.github.io/dysonBlueprintParser/",
+    "PreviewTemplate": "{previewUrl}?txt={fullUrl}",
     "pageSize": 36
 }
